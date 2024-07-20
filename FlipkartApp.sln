@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipkartApp", "FlipkartApp.csproj", "{1DF28F8D-643E-4351-951C-9DD51D0EBA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF28F8D-643E-4351-951C-9DD51D0EBA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF28F8D-643E-4351-951C-9DD51D0EBA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF28F8D-643E-4351-951C-9DD51D0EBA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF28F8D-643E-4351-951C-9DD51D0EBA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1219CFB-E1A8-4494-BDE2-7523DB11991E}
+	EndGlobalSection
+EndGlobal
