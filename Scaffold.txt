@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -Connection "Data Source=123ABC\SQLEXPRESS;Initial Catalog=FlipkartDb;Trusted_Connection=True;TrustServerCertificate=True;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -context ApplicationDbContext
